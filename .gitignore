@@ -1,0 +1,10 @@
+   # Configurações locais do editor
+   .vscode/
+
+   # Ambiente virtual e cache do Python
+   .venv/
+   __pycache__/
+   *.pyc
+
+   # Segredos (senhas, chaves, variáveis de ambiente)
+   .env
